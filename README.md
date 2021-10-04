@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PM-Vineet
 - 👀 I’m interested in Project Management
-- 🌱 I’m currently learning Scrum
 - 📫 How to reach me - contactjenvin@gmail.com
 
 <!---
